@@ -1,5 +1,21 @@
-# Welcome to GitHub Desktop!
+<!-- Fichier template de présentation sur Git. Modifiée sur chaque branche. -->
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+# Présentation sur Git
+Bienvenue dans mon répertoire de présentation sur Git ! Ici, vous trouverez toutes les ressources et documents liés à ma présentation sur l'utilisation et les bonnes pratiques de Git.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## A propos de moi
+[Votre Nom]
+[Votre Prénom]
+[Votre Specialité]
+
+## Contenu
+
+Dans ce répertoire, vous trouverez :
+
+1. Présentation PowerPoint sur Git
+2. Exemples de code
+3. Ressources supplémentaires pour approfondir vos connaissances
+
+## Contact
+
+Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter.
