@@ -4,9 +4,9 @@
 Bienvenue dans mon répertoire de présentation sur Git ! Ici, vous trouverez toutes les ressources et documents liés à ma présentation sur l'utilisation et les bonnes pratiques de Git.
 
 ## A propos de moi
-Specialité : INTELLIGENCE ARTIFICIELLE ET BIG DATA
-Nom: MISSE MISSE
-Prenom: ANTHONY JAMES
+- Specialité : INTELLIGENCE ARTIFICIELLE ET BIG DATA
+- Nom: MISSE MISSE
+- Prenom: ANTHONY JAMES
 
 ## Contenu
 
